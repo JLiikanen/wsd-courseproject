@@ -1,1 +1,4 @@
 project.env
+# all variants
+.env
+.env.*
